@@ -1,3 +1,3 @@
 A file for the first homework
 
-Today is monday! I ate tasty food.
+Today is monday! Today  was really cold.
