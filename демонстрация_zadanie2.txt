@@ -1,0 +1,5 @@
+Пример запуска скрипта:
+$ bash zadanie2.sh ~/Desktop/Mentor\ seminar_HSE/folder_for_2_zadanie
+скрипт запущен
+Текущий PATH: /c/Users/huawei/bin:/mingw64/bin:/usr/local/bin:...
+Новый PATH: /c/Users/huawei/bin:/mingw64/bin:/usr/local/bin:...:/c/Users/huawei/Desktop/Mentor seminar_HSE/folder_for_2_zadanie
